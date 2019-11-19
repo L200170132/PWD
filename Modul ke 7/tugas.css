@@ -1,0 +1,17 @@
+
+body {background-image: url('elsa.jpg');}
+h2 {font-family: comic sans ms;
+    background-color: #ff99cc;
+    text-align: center;    
+}
+table {background: rgb(255, 255, 255);}
+.td{font-weight: bold;}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+h3 {font-family: comic sans ms;
+    background-color: #ff99cc;
+    text-align: center;    
+}
